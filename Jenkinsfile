@@ -1,3 +1,3 @@
 node {
-    sleep(60)
+    sleep(120)
 }
